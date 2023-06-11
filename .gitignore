@@ -1,0 +1,8 @@
+*.kicad_prl
+*.gbrjob
+*-backups/
+gerbers/
+fp-info-cache
+gerbers.zip
+*mm.kicad_pcb
+*mm.zip
